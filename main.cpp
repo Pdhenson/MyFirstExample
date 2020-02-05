@@ -2,13 +2,15 @@
 
 using std::cin;
 using std::cout;
+using std::endl;
 
 int main()
 {
-    int num1;
-    int num2;
+    int x,y;
+    
     cout<<"Hi, please enter two numbers: ";
-    cin>>num1;
-    cin>>num2;
+    cin >> x >> y;
+    cout << x + y << endl;
+    
     return 0;
 }
