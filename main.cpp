@@ -9,7 +9,6 @@ int temp(int);
 int main()
 {
     int x,y,z;
-    // Hello    
     temp(z);
 
     cout<<"Hi, please enter two numbers: ";
