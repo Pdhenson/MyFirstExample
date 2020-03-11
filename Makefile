@@ -1,2 +1,2 @@
 all:
-	g++ -fanalyzer main.cpp
+	g++ main.cpp
